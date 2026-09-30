@@ -1,0 +1,70 @@
+.k9{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.img-thumbnail{
+align-items: center;
+
+
+
+}
+
+.teste{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.text-justify-custom {
+    text-align: justify;
+     text-align-last: center; 
+}
+
+.container{
+background-color: lightgray;
+
+
+}
+
+.text-justify{
+    text-align: justify;
+     text-align-last: center; 
+}
+
+
+.custom{
+background-color: lightgray;
+
+    
+}
+
+
+
+.perfil {
+  display: flex;         
+  align-items: center;       /* Alinha a imagem e o texto na vertical */
+  justify-content: center;   /* Centraliza o bloco inteiro na horizontal 🌟 */
+  gap: 15px;                 /* Coloquei 15px de espaço para não ficar colado */
+}
+
+.perfil img {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;    
+  object-fit: cover;
+  object-position: center;
+}
+
+.pricing{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 20px;
+}
+
