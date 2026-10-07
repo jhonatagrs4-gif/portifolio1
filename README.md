@@ -8,3 +8,4 @@ A documentação deve ser realizada ao fim das auterações feitas, no arquivo o
 favorecendo tambem a continuação dos trabalhos por outras pessoas que estejam envolvidas no projeto, tanto desde op inicio dele, quanto iniciando a participação no decorrer do projeto.
 
 neste projeto foram trealizados as "criações" da pagina HTML, com a estilização do bootstrap, juntamente com a estilização propria no css.
+foram realizadas correções de branch devido a commits que divergiram do arquivo original do projeto, onde para a correção dos mesmos foi necessario deletar todo o projeto e refazer todo ele do zero.
